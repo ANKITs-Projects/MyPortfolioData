@@ -1,0 +1,27 @@
+{
+  "name": "Ankit Gupta",
+  "role": "Full Stack Developer",
+  "about": "I build modern, responsive web apps using React, Node.js, and MongoDB.",
+  "email": "ankitgupta6@zohomail.in",
+  "profileImage": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/profile.jpg",
+  "resume": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/resume.pdf",
+  "projects": [
+    {
+      "title": "Stock Tracker App",
+      "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/project1.jpg",
+      "link": "https://github.com/ANKITs-Projects/stock-tracker",
+      "description": "Track stock performance in real time."
+    },
+    {
+      "title": "Portfolio Website",
+      "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/project2.jpg",
+      "link": "https://ankitgupta.github.io/",
+      "description": "My personal portfolio built with HTML, CSS, and JS."
+    }
+  ],
+  "socials": {
+    "github": "https://github.com/ANKITs-Projects",
+    "linkedin": "https://linkedin.com/in/ANKITs-Projects",
+    "twitter": "https://twitter.com/ANKITs-Projects"
+  }
+}
