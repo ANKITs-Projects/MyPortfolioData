@@ -1,27 +1,138 @@
 {
   "name": "Ankit Gupta",
-  "role": "Full Stack Developer",
-  "about": "I build modern, responsive web apps using React, Node.js, and MongoDB.",
-  "email": "ankitgupta@gmail.com",
-  "profileImage": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/profile.png",
+
+  "role": "Full Stack Web Developer",
+
+  "profileImage": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/profilepic.jpg",
+
   "resume": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/resume.pdf",
-  "projects": [
+
+  "landingPageLine": "Skill defines what I can do. Passion drives what I will do. Discipline decides how far I go.",
+
+  "about": "My name's Ankit Gupta, and I'm a Full Stack Developer passionate about building dynamic, user-focused web applications and exploring new technologies that make the web faster and smarter.\n\nAlthough my journey started with curiosity about how digital products work, it quickly evolved into a passion for creating them. Over time, I've worked with the MERN stack, developed strong problem-solving skills, and cultivated a mindset of continuous learning.\n\nI believe that every project is an opportunity to grow — not just as a developer, but as a thinker. Outside of coding, I enjoy exploring new tools, learning about emerging tech, and listening to some relaxing lofi beats.\n\nMy goal is to apply my skills to build impactful, scalable solutions that help organizations grow — while continuing to push my own limits as a developer.",
+
+  "education": [
     {
-      "title": "Stock Tracker App",
-      "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/project1.png",
-      "link": "https://github.com/ANKITs-Projects/stock-tracker",
-      "description": "Track stock performance in real time."
+      "degree": "Full Stack Web Development",
+      "institution": "Masai School, Bangalore",
+      "year": "2025 - 2026"
     },
     {
-      "title": "Portfolio Website",
-      "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/project2.png",
-      "link": "https://ankitgupta.github.io/",
-      "description": "My personal portfolio built with HTML, CSS, and JS."
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "SR institution Of Management & Technology, Lucknow",
+      "year": "2021 - 2025"
+    },
+    {
+      "degree": "Senior Secondary (12th)",
+      "institution": "Young Stream Academy Inter College",
+      "year": "2021"
+    },
+    {
+      "degree": "Secondary (10th)",
+      "institution": "Acharya Shri Chandra Dev Inter College",
+      "year": "2019"
     }
   ],
+
+  "tech-stack": [
+    {
+      "title": "HTML",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    },
+    {
+      "title": "CSS",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    },
+    {
+      "title": "javascript",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    },
+    {
+      "title": "react",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    },
+    {
+      "title": "redux",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+    },
+    {
+      "title": "ViteJS",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+    },
+    {
+      "title": "express",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+    },
+    {
+      "title": "nodejs",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    },
+    {
+      "title": "tailwindcss",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "title": "mongodb",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+    }
+  ],
+
+  "tech-tools": [
+    {
+      "title": "vscode",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    },
+    {
+      "title": "github",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    },
+    {
+      "title": "postman",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+    },
+    {
+      "title": "npm",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+    },
+    {
+      "title": "chakraui",
+      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Stock Analysis Logger",
+      "description": "A web app where users can log stocks with notes and view them in a dashboard. Built with React and Firebase.",
+      "tech": ["React", "Firebase", "Tailwind CSS"],
+      "image": "https://yourimageurl.com/stock.png",
+      "link": "https://yourprojectlink.com",
+      "github": "https://github.com/ankits-projects/stock-analysis-logger"
+    },
+    {
+      "title": "AI Content Generator",
+      "description": "An AI tool that generates text content using OpenAI API with a clean React interface.",
+      "tech": ["React", "Express", "OpenAI API"],
+      "image": "https://yourimageurl.com/ai-tool.png",
+      "link": "https://yourprojectlink.com",
+      "github": "https://github.com/ankits-projects/ai-content-generator"
+    },
+    {
+      "title": "Portfolio Customizer Tool",
+      "description": "A React-based app to create and share customized portfolio templates.",
+      "tech": ["React", "Vite", "EmailJS"],
+      "image": "https://yourimageurl.com/portfolio.png",
+      "link": "https://yourprojectlink.com",
+      "github": "https://github.com/ankits-projects/portfolio-customizer"
+    }
+  ],
+  
   "socials": {
+    "email": "ankitgupta6@zohomail.in",
+    "phone": "+91 9305540748",
     "github": "https://github.com/ANKITs-Projects",
-    "linkedin": "https://linkedin.com/in/ANKITs-Projects",
-    "twitter": "https://twitter.com/ANKITs-Projects"
+    "linkedin": "https://www.linkedin.com/in/ankit-gupta-77b924251/",
+    "twitter": "https://x.com/Ankit_Gupta_6",
+    "location": "Lucknow, Utter Pradesh, India"
   }
 }
