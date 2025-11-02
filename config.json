@@ -1,5 +1,5 @@
 {
-  "name": "Ankit Gupta",
+  "myname": "Ankit Gupta",
 
   "role": "Full Stack Web Developer",
 
@@ -9,7 +9,7 @@
 
   "landingPageLine": "Skill defines what I can do. Passion drives what I will do. Discipline decides how far I go.",
 
-  "about": "My name's Ankit Gupta, and I'm a Full Stack Developer passionate about building dynamic, user-focused web applications and exploring new technologies that make the web faster and smarter.\n\nAlthough my journey started with curiosity about how digital products work, it quickly evolved into a passion for creating them. Over time, I've worked with the MERN stack, developed strong problem-solving skills, and cultivated a mindset of continuous learning.\n\nI believe that every project is an opportunity to grow — not just as a developer, but as a thinker. Outside of coding, I enjoy exploring new tools, learning about emerging tech, and listening to some relaxing lofi beats.\n\nMy goal is to apply my skills to build impactful, scalable solutions that help organizations grow — while continuing to push my own limits as a developer.",
+  "about-content": "My name's Ankit Gupta, and I'm a Full Stack Developer passionate about building dynamic, user-focused web applications and exploring new technologies that make the web faster and smarter.\n\nAlthough my journey started with curiosity about how digital products work, it quickly evolved into a passion for creating them. Over time, I've worked with the MERN stack, developed strong problem-solving skills, and cultivated a mindset of continuous learning.\n\nI believe that every project is an opportunity to grow — not just as a developer, but as a thinker. Outside of coding, I enjoy exploring new tools, learning about emerging tech, and listening to some relaxing lofi beats.\n\nMy goal is to apply my skills to build impactful, scalable solutions that help organizations grow — while continuing to push my own limits as a developer.",
 
   "education": [
     {
