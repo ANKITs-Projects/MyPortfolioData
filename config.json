@@ -74,10 +74,7 @@
     {
       "title": "mongodb",
       "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-    }
-  ],
-
-  "techTools": [
+    },
     {
       "title": "vscode",
       "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
@@ -99,6 +96,7 @@
       "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg"
     }
   ],
+
 
   "projects": [
     {
