@@ -101,7 +101,7 @@
   "projects": [
     {
       "title": "Investment Portfolio Tracker",
-      "description": "InvestmentPortfolioTracker is a web-based application that allows users to easily manage and analyze their stock investments by adding transactions, tracking real-time portfolio value, and viewing gains or losses through a clean and intuitive interface. Built using React and deployed on Firebase, the app consolidates all investment data in one place, replacing manual spreadsheets with an automated, user-friendly system that helps users understand their overall financial performance at a glance.",
+      "description": "InvestmentPortfolioTracker is a web-based application that allows users to easily manage and analyze their crypto investments by adding transactions, tracking real-time portfolio value, and viewing gains or losses through a clean and intuitive interface. Built using React and deployed on Firebase, the app consolidates all investment data in one place, replacing manual spreadsheets with an automated.",
       "tech": ["Reactjs", "Sockets & Chat", "Firebase", "Tailwind CSS"],
       "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/investmentsPortfolioTracker.png",
       "link": "https://investment-portfolio-tra-ebd09.web.app/",
