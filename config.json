@@ -100,28 +100,12 @@
 
   "projects": [
     {
-      "title": "Stock Analysis Logger",
-      "description": "A web app where users can log stocks with notes and view them in a dashboard. Built with React and Firebase.",
-      "tech": ["React", "Firebase", "Tailwind CSS"],
-      "image": "https://yourimageurl.com/stock.png",
-      "link": "https://yourprojectlink.com",
-      "github": "https://github.com/ankits-projects/stock-analysis-logger"
-    },
-    {
-      "title": "AI Content Generator",
-      "description": "An AI tool that generates text content using OpenAI API with a clean React interface.",
-      "tech": ["React", "Express", "OpenAI API"],
-      "image": "https://yourimageurl.com/ai-tool.png",
-      "link": "https://yourprojectlink.com",
-      "github": "https://github.com/ankits-projects/ai-content-generator"
-    },
-    {
-      "title": "Portfolio Customizer Tool",
-      "description": "A React-based app to create and share customized portfolio templates.",
-      "tech": ["React", "Vite", "EmailJS"],
-      "image": "https://yourimageurl.com/portfolio.png",
-      "link": "https://yourprojectlink.com",
-      "github": "https://github.com/ankits-projects/portfolio-customizer"
+      "title": "Investment Portfolio Tracker",
+      "description": "InvestmentPortfolioTracker is a web-based application that allows users to easily manage and analyze their stock investments by adding transactions, tracking real-time portfolio value, and viewing gains or losses through a clean and intuitive interface. Built using React and deployed on Firebase, the app consolidates all investment data in one place, replacing manual spreadsheets with an automated, user-friendly system that helps users understand their overall financial performance at a glance.",
+      "tech": ["Reactjs", "Sockets & Chat", "Firebase", "Tailwind CSS"],
+      "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/investmentsPortfolioTracker.png",
+      "link": "https://investment-portfolio-tra-ebd09.web.app/",
+      "github": "https://github.com/ANKITs-Projects/InvestmentPortfolioTracker"
     }
   ],
   
