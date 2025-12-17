@@ -100,12 +100,28 @@
 
   "projects": [
     {
+      "title": "ShopNow",
+      "description": "Developed a full-stack e-commerce platform using the MERN stack, featuring product listings,\n dynamic cart management.\n•Implemented secure user authentication (JWT) and optimised REST APIs in Node.js/Express.\n•Designed a responsive React UI with category filters and real-time search.",
+      "tech": ["React","Nodejs", "Express", "MongoDB", "Tailwind CSS"],
+      "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/ShopNow.png",
+      "link": "https://shopnow-7dto.vercel.app/",
+      "github": "https://github.com/ANKITs-Projects/shopnow"
+    },
+    {
       "title": "Investment Portfolio Tracker",
-      "description": "InvestmentPortfolioTracker is a web-based application that allows users to easily manage and analyze their crypto investments by adding transactions, tracking real-time portfolio value, and viewing gains or losses through a clean and intuitive interface. Built using React and deployed on Firebase, the app consolidates all investment data in one place, replacing manual spreadsheets with an automated.",
-      "tech": ["Reactjs", "Sockets & Chat", "Firebase", "Tailwind CSS"],
+      "description": "Developed a real-time investment portfolio dashboard using React and Firebase to track assets,\nperformance, and portfolio growth.\nImplemented secure authentication with Firebase Auth and optimized Firestore data modeling.\n•\nIntegrated interactive charts and responsive UI to visualize market trends and portfolio insights",
+      "tech": ["React", "Sockets & Chat", "Firebase", "Tailwind CSS"],
       "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/investmentsPortfolioTracker.png",
       "link": "https://investment-portfolio-tra-ebd09.web.app/",
       "github": "https://github.com/ANKITs-Projects/InvestmentPortfolioTracker"
+    },
+    {
+      "title": "ReevaMovie",
+      "description": "Developed a movie streaming web application using React and Redux, delivering a smooth browsing \nexperience with real-time state management for movies and TV shows.\nIntegrated TMDB APIs using Axios to fetch and display trending, popular, and genre-based content.\n•\n•\nDesigned a responsive and modern UI with Tailwind CSS, implementing search and filtering features \nto enhance content discovery and user engagement.",
+      "tech": ["React", "Axios", "Tailwind CSS", "TMDB"],
+      "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/ReevaMovie.png",
+      "link": "https://reevamovie.vercel.app/",
+      "github": "https://github.com/ANKITs-Projects/reevamovie"
     }
   ],
   
