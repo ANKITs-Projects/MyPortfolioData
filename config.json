@@ -97,45 +97,46 @@
     }
   ],
 
-  "experience": [
-    {
-  id: "exp-001",
-  company: "Unlox",
-  role: "Full Stack Developer",
-  location: "HSR Layout, Bangalore, India",
-  employmentType: "Full-time",
-  startDate: "2026-05",
-  endDate: null,
-  current: true,
-
-  description:
-    "Working on scalable web applications, backend systems, and production-ready features.",
-
-  responsibilities: [
-    "Developed and maintained full-stack web applications.",
-    "Designed and implemented RESTful APIs and backend services.",
-    "Worked with PostgreSQL, Redis, and cloud services.",
-    "Implemented authentication, notifications, and real-time features.",
-    "Optimized application performance and database queries."
+"experience": [
+        {
+      id: "exp-001",
+      company: "Unlox",
+      role: "Full Stack Developer",
+      location: "HSR Layout, Bangalore, India",
+      employmentType: "Full-time",
+      startDate: "2026-05",
+      endDate: null,
+      current: true,
+    
+      description:
+        "Working on scalable web applications, backend systems, and production-ready features.",
+    
+      responsibilities: [
+        "Developed and maintained full-stack web applications.",
+        "Designed and implemented RESTful APIs and backend services.",
+        "Worked with PostgreSQL, Redis, and cloud services.",
+        "Implemented authentication, notifications, and real-time features.",
+        "Optimized application performance and database queries."
+      ],
+    
+      technologies: [
+        "React",
+        "Node.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Redis"
+      ],
+    
+      achievements: [
+        "Improved backend performance and API response times.",
+        "Built scalable features for production applications."
+      ],
+    
+      companyUrl: "https://unlox.com"
+    }
   ],
-
-  technologies: [
-    "React",
-    "Node.js",
-    "TypeScript",
-    "PostgreSQL",
-    "Redis"
-  ],
-
-  achievements: [
-    "Improved backend performance and API response times.",
-    "Built scalable features for production applications."
-  ],
-
-  companyUrl: "https://unlox.com"
-}
-  ]
-  "projects": [
+  
+"projects": [
     {
       "title": "ShopNow",
       "description": "Developed a full-stack e-commerce application using the MERN stack, implementing modular product listing services and state-driven cart management. Built secure authentication and authorization workflows using JWT, along with optimized RESTful APIs in Node.js and Express to ensure scalable and efficient data handling. Engineered a responsive React frontend with component-based architecture, integrating category-based filtering and real-time search functionality for enhanced performance and usability.",
