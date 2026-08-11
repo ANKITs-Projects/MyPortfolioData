@@ -99,19 +99,19 @@
 
 "experience": [
         {
-      id: "exp-001",
-      company: "Unlox",
-      role: "Full Stack Developer",
-      location: "HSR Layout, Bangalore, India",
-      employmentType: "Full-time",
-      startDate: "2026-05",
-      endDate: null,
-      current: true,
+      "id": "exp-001",
+      "company": "Unlox",
+      "role": "Full Stack Developer",
+      "location": "HSR Layout, Bangalore, India",
+      "employmentType": "Full-time",
+      "startDate": "2026-05",
+      "endDate": null,
+      "current": true,
     
-      description:
+      "description":
         "Working on scalable web applications, backend systems, and production-ready features.",
     
-      responsibilities: [
+      "responsibilities": [
         "Developed and maintained full-stack web applications.",
         "Designed and implemented RESTful APIs and backend services.",
         "Worked with PostgreSQL, Redis, and cloud services.",
@@ -119,7 +119,7 @@
         "Optimized application performance and database queries."
       ],
     
-      technologies: [
+      "technologies": [
         "React",
         "Node.js",
         "TypeScript",
@@ -127,12 +127,12 @@
         "Redis"
       ],
     
-      achievements: [
+      "achievements": [
         "Improved backend performance and API response times.",
         "Built scalable features for production applications."
       ],
     
-      companyUrl: "https://unlox.com"
+      "companyUrl": "https://unlox.com"
     }
   ],
   
