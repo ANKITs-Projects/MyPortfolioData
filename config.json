@@ -97,7 +97,44 @@
     }
   ],
 
+  "experience": [
+    {
+  id: "exp-001",
+  company: "Unlox",
+  role: "Full Stack Developer",
+  location: "HSR Layout, Bangalore, India",
+  employmentType: "Full-time",
+  startDate: "2026-05",
+  endDate: null,
+  current: true,
 
+  description:
+    "Working on scalable web applications, backend systems, and production-ready features.",
+
+  responsibilities: [
+    "Developed and maintained full-stack web applications.",
+    "Designed and implemented RESTful APIs and backend services.",
+    "Worked with PostgreSQL, Redis, and cloud services.",
+    "Implemented authentication, notifications, and real-time features.",
+    "Optimized application performance and database queries."
+  ],
+
+  technologies: [
+    "React",
+    "Node.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Redis"
+  ],
+
+  achievements: [
+    "Improved backend performance and API response times.",
+    "Built scalable features for production applications."
+  ],
+
+  companyUrl: "https://unlox.com"
+}
+  ]
   "projects": [
     {
       "title": "ShopNow",
@@ -126,7 +163,7 @@
   ],
   
   "socials": {
-    "email": "ankitgupta6@zohomail.in",
+    "email": "ankitgupta0429@gmail.com",
     "phone": "+91 9305540748",
     "github": "https://github.com/ANKITs-Projects",
     "linkedin": "https://www.linkedin.com/in/ankit-gupta-77b924251/",
