@@ -145,6 +145,14 @@
   ],
   
 "projects": [
+  {
+      "title": "NovaAI",
+      "description": "Nova AI is a full-stack AI-powered chat application built using React.js, Node.js, Express.js, and MongoDB. The application provides a conversational AI experience with secure JWT-based authentication, protected REST APIs, persistent chat history, and project-based conversation management. I developed the frontend and backend with a modular architecture, separating routes, controllers, models, middleware, services, and utilities for better scalability and maintainability. The platform also includes automated chat organization and user-specific conversation management, with the application deployed for production use.",
+      "tech": ["React","Nodejs", "Express", "MongoDB", "Tailwind CSS"],
+      "image": "https://raw.githubusercontent.com/ANKITs-Projects/MyPortfolioData/main/images/NovaAI.png",
+      "link": "https://nova-ai-client.vercel.app/",
+      "github": "https://github.com/ANKITs-Projects/nova-ai-server"
+    },
     {
       "title": "ShopNow",
       "description": "Developed a full-stack e-commerce application using the MERN stack, implementing modular product listing services and state-driven cart management. Built secure authentication and authorization workflows using JWT, along with optimized RESTful APIs in Node.js and Express to ensure scalable and efficient data handling. Engineered a responsive React frontend with component-based architecture, integrating category-based filtering and real-time search functionality for enhanced performance and usability.",
