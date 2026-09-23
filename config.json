@@ -100,9 +100,25 @@
       "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
     },
     {
-      "title": "chakraui",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg"
-    }
+    "title": "Teamwork",
+    "linke": "https://cdn-icons-png.flaticon.com/512/1256/1256650.png"
+  },
+  {
+    "title": "Problem Solving",
+    "linke": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
+  },
+  {
+    "title": "Time Management",
+    "linke": "https://cdn-icons-png.flaticon.com/512/2088/2088617.png"
+  },
+    {
+    "title": "Continuous Learning",
+    "linke": "https://cdn-icons-png.flaticon.com/512/2436/2436874.png"
+  },
+    {
+    "title": "Collaboration",
+    "linke": "https://cdn-icons-png.flaticon.com/512/681/681494.png"
+  }
   ],
 
 "experience": [
