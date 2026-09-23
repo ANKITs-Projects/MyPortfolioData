@@ -35,6 +35,26 @@
   ],
 
   "techStack": [
+    {
+    "title": "Next.js",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
+  },
+    {
+    "title": "React",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  },
+    {
+    "title": "JavaScript",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  },
+    {
+    "title": "Tailwind CSS",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+  },
   {
     "title": "HTML",
     "category": "Frontend Development",
@@ -45,37 +65,6 @@
     "category": "Frontend Development",
     "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
   },
-  {
-    "title": "JavaScript",
-    "category": "Frontend Development",
-    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  },
-  {
-    "title": "React",
-    "category": "Frontend Development",
-    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-  },
-  {
-    "title": "Next.js",
-    "category": "Frontend Development",
-    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
-  },
-  {
-    "title": "Redux",
-    "category": "Frontend Development",
-    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-  },
-  {
-    "title": "Tailwind CSS",
-    "category": "Frontend Development",
-    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-  },
-  {
-    "title": "Vite",
-    "category": "Frontend Development",
-    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
-  },
-
   {
     "title": "Node.js",
     "category": "Backend & Databases",
@@ -112,12 +101,6 @@
     "category": "Tools & Platforms",
     "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
   },
-  {
-    "title": "npm",
-    "category": "Tools & Platforms",
-    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
-  },
-
   {
     "title": "Teamwork",
     "category": "Soft Skills",
