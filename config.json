@@ -35,91 +35,115 @@
   ],
 
   "techStack": [
-    {
-      "title": "HTML",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    },
-    {
-      "title": "CSS",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    },
-    {
-      "title": "javascript",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    },
-    {
-      "title": "react",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    },
-    {
-      "title": "next.js",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
-    },
-    {
-      "title": "redux",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-    },
-    {
-      "title": "ViteJS",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
-    },
-    {
-      "title": "express",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-    },
-    {
-      "title": "nodejs",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-    },
-    {
-      "title": "tailwindcss",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    },
-    {
-      "title": "mongodb",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
-    },
-    {
-      "title": "postgreSQL",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-    },
-    {
-      "title": "vscode",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    },
-    {
-      "title": "github",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    },
-    {
-      "title": "postman",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-    },
-    {
-      "title": "npm",
-      "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
-    },
-    {
+  {
+    "title": "HTML",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  },
+  {
+    "title": "CSS",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  },
+  {
+    "title": "JavaScript",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  },
+  {
+    "title": "React",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  },
+  {
+    "title": "Next.js",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
+  },
+  {
+    "title": "Redux",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+  },
+  {
+    "title": "Tailwind CSS",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+  },
+  {
+    "title": "Vite",
+    "category": "Frontend Development",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+  },
+
+  {
+    "title": "Node.js",
+    "category": "Backend & Databases",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+  },
+  {
+    "title": "Express",
+    "category": "Backend & Databases",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+  },
+  {
+    "title": "MongoDB",
+    "category": "Backend & Databases",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+  },
+  {
+    "title": "PostgreSQL",
+    "category": "Backend & Databases",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+  },
+
+  {
+    "title": "VS Code",
+    "category": "Tools & Platforms",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+  },
+  {
+    "title": "GitHub",
+    "category": "Tools & Platforms",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  },
+  {
+    "title": "Postman",
+    "category": "Tools & Platforms",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+  },
+  {
+    "title": "npm",
+    "category": "Tools & Platforms",
+    "linke": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+  },
+
+  {
     "title": "Teamwork",
+    "category": "Soft Skills",
     "linke": "https://cdn-icons-png.flaticon.com/512/1256/1256650.png"
   },
   {
     "title": "Problem Solving",
+    "category": "Soft Skills",
     "linke": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
   },
   {
     "title": "Time Management",
+    "category": "Soft Skills",
     "linke": "https://cdn-icons-png.flaticon.com/512/2088/2088617.png"
   },
-    {
+  {
     "title": "Continuous Learning",
+    "category": "Soft Skills",
     "linke": "https://cdn-icons-png.flaticon.com/512/2436/2436874.png"
   },
-    {
+  {
     "title": "Collaboration",
+    "category": "Soft Skills",
     "linke": "https://cdn-icons-png.flaticon.com/512/681/681494.png"
   }
-  ],
+],
 
 "experience": [
         {
