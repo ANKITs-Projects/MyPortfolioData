@@ -143,12 +143,13 @@
         "Working on scalable web applications, backend systems, and production-ready features.",
     
       "responsibilities": [
-        "Developed and maintained full-stack web applications.",
-        "Designed and implemented RESTful APIs and backend services.",
-        "Worked with PostgreSQL, Redis, and cloud services.",
-        "Implemented authentication, notifications, and real-time features.",
-        "Optimized application performance and database queries."
-      ],
+  "Built RESTful APIs with layered architecture, JWT authorization, Zod validation, rate limiting, CORS, Helmet, and parameterized queries.",
+  "Implemented real-time notifications using Redis and Socket.IO with caching and batching for likes, comments, and follows.",
+  "Used BullMQ for background processing of emails, notifications, and database persistence.",
+  "Implemented personalized feeds using PostgreSQL joins, filtering, aggregation, interaction signals, and UUID-based cursor pagination.",
+  "Contributed to PrepFree frontend development using Next.js and Tailwind CSS, building reusable UI components and application flows.",
+  "Optimized application performance and database queries while collaborating across the full-stack development lifecycle."
+],
     
       "technologies": [
         "React",
